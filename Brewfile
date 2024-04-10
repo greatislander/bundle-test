@@ -1,0 +1,7 @@
+tap "hashicorp/tap"
+tap "homebrew/bundle"
+brew "ansible"
+brew "awscli"
+brew "terragrunt"
+brew "tflint"
+brew "hashicorp/tap/terraform"
